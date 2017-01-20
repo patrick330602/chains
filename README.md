@@ -1,4 +1,4 @@
-# Chains >> a oh-my-zsh theme
+# Chains ╾╼ a oh-my-zsh theme
 [![asciicast](https://asciinema.org/a/99567.png)](https://asciinema.org/a/99567)
 
 ## Installation
